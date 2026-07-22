@@ -19,7 +19,6 @@ I'm a Computer Science student at <b>FAST-NUCES Karachi</b> passionate about bui
 
 - 🎓 Computer Science Student @ **FAST-NUCES Karachi**
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🎤 Building **FRIDAY**, an AI Voice Assistant inspired by Tony Stark's F.R.I.D.A.Y.
 - 📄 Building Retrieval-Augmented Generation (RAG) applications
 - 😀 Interested in Computer Vision and Deep Learning
 - 🌱 Currently exploring Agentic AI and LLM Engineering
@@ -114,9 +113,9 @@ I'm a Computer Science student at <b>FAST-NUCES Karachi</b> passionate about bui
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-flax-26.vercel.app/api?username=AmanMalik2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AmanMalik2004&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-flax-26.vercel.app/api/top-langs/?username=AmanMalik2004&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMalik2004&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
