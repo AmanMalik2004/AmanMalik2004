@@ -13,7 +13,6 @@ I'm a Computer Science student at **FAST-NUCES Karachi** passionate about buildi
 - 🎓 Computer Science Student @ **FAST-NUCES Karachi**
 - 🤖 Building AI-powered applications using **Python, OpenAI, Gemini & LiveKit**
 - 🧠 Interested in **LLM Engineering, Agentic AI, RAG, Computer Vision, and Deep Learning**
-- 🎤 Currently developing **FRIDAY**, an AI voice assistant inspired by Tony Stark's F.R.I.D.A.Y.
 - 📄 Building Retrieval-Augmented Generation (RAG) systems for intelligent document understanding
 - 🌍 Exploring multi-agent workflows and modern AI infrastructure
 - 📚 Continuously learning new AI technologies and best practices
