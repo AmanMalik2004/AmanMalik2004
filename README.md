@@ -10,7 +10,7 @@ I'm a Computer Science student at <b>FAST-NUCES Karachi</b> passionate about bui
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4EA1FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Building+LLM+Applications;Developing+FRIDAY+Voice+Assistant;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4EA1FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Building+LLM+Applications;Developing+AI+Voice+Assistant;Always+Learning+New+Technologies" />
 </p>
 
 ---
