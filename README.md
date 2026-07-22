@@ -95,17 +95,22 @@ Responsive developer portfolio showcasing projects and technical skills.
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanMalik2004&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanMalik2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMalik2004&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AmanMalik2004&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMalik2004&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AmanMalik2004&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=AmanMalik2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+# 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmanMalik2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+</p>
 ---
 
 ## 🌱 Currently Learning
