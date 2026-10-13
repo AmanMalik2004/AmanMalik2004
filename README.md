@@ -97,9 +97,9 @@ I'm a Computer Science student at <b>FAST-NUCES Karachi</b> passionate about bui
 
 # 🚀 Featured Projects
 
-🤖 **FRIDAY – AI Voice Assistant**
+🤖 **ResumeLens – AI Resume Analyzer with Job-Match Scoring**
 
-📄 **RAG Document Chatbot**
+📄 **Tollgate – Cost-Aware RAG Gateway**
 
 😀 **Facial Emotion Detection**
 
