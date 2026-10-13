@@ -103,7 +103,7 @@ I'm a Computer Science student at <b>FAST-NUCES Karachi</b> passionate about bui
 
 😀 **Facial Emotion Detection**
 
-🌍 **AI Language Translator**
+🌍 **LingoBridge – AI Language Translator**
 
 🌐 **Personal Portfolio**
 
